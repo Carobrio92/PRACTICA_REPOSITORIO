@@ -7,3 +7,6 @@
 
 #resta
 80-69
+
+#Division
+1897/82
