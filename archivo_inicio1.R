@@ -7,3 +7,6 @@
 
 #resta
 80-69
+
+#multiplicacion
+78*6
