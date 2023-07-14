@@ -10,7 +10,7 @@
 
 #multiplicacion
 78*6
-<<<<<<< HEAD
+
 
 #Division
 1897/82
